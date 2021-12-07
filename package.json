@@ -1,0 +1,29 @@
+{
+  "name": "flexbox-course",
+  "version": "1.0.0",
+  "description": "idk bro",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp-cli": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophje/flexbox-course.git"
+  },
+  "author": "sophi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophje/flexbox-course/issues"
+  },
+  "homepage": "https://github.com/sophje/flexbox-course#readme",
+  "keywords": [
+    "flexbox"
+  ]
+}
